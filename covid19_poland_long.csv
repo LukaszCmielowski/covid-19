@@ -1,0 +1,385 @@
+Days,Region,Cases
+0,Lower Silesia (DS),0
+1,Lower Silesia (DS),0
+2,Lower Silesia (DS),1
+3,Lower Silesia (DS),1
+4,Lower Silesia (DS),2
+5,Lower Silesia (DS),3
+6,Lower Silesia (DS),4
+7,Lower Silesia (DS),4
+8,Lower Silesia (DS),7
+9,Lower Silesia (DS),8
+10,Lower Silesia (DS),13
+11,Lower Silesia (DS),15
+12,Lower Silesia (DS),27
+13,Lower Silesia (DS),38
+14,Lower Silesia (DS),40
+15,Lower Silesia (DS),53
+16,Lower Silesia (DS),58
+17,Lower Silesia (DS),66
+18,Lower Silesia (DS),79
+19,Lower Silesia (DS),101
+20,Lower Silesia (DS),134
+21,Lower Silesia (DS),150
+22,Lower Silesia (DS),165
+23,Lower Silesia (DS),193
+0,Kuyavia-Pomerania (KP),0
+1,Kuyavia-Pomerania (KP),0
+2,Kuyavia-Pomerania (KP),0
+3,Kuyavia-Pomerania (KP),0
+4,Kuyavia-Pomerania (KP),0
+5,Kuyavia-Pomerania (KP),0
+6,Kuyavia-Pomerania (KP),0
+7,Kuyavia-Pomerania (KP),0
+8,Kuyavia-Pomerania (KP),0
+9,Kuyavia-Pomerania (KP),0
+10,Kuyavia-Pomerania (KP),0
+11,Kuyavia-Pomerania (KP),0
+12,Kuyavia-Pomerania (KP),0
+13,Kuyavia-Pomerania (KP),8
+14,Kuyavia-Pomerania (KP),8
+15,Kuyavia-Pomerania (KP),11
+16,Kuyavia-Pomerania (KP),14
+17,Kuyavia-Pomerania (KP),18
+18,Kuyavia-Pomerania (KP),18
+19,Kuyavia-Pomerania (KP),21
+20,Kuyavia-Pomerania (KP),22
+21,Kuyavia-Pomerania (KP),27
+22,Kuyavia-Pomerania (KP),31
+23,Kuyavia-Pomerania (KP),33
+0,Lubusz (LB),1
+1,Lubusz (LB),1
+2,Lubusz (LB),1
+3,Lubusz (LB),1
+4,Lubusz (LB),1
+5,Lubusz (LB),1
+6,Lubusz (LB),1
+7,Lubusz (LB),1
+8,Lubusz (LB),1
+9,Lubusz (LB),1
+10,Lubusz (LB),1
+11,Lubusz (LB),2
+12,Lubusz (LB),2
+13,Lubusz (LB),2
+14,Lubusz (LB),3
+15,Lubusz (LB),9
+16,Lubusz (LB),9
+17,Lubusz (LB),9
+18,Lubusz (LB),11
+19,Lubusz (LB),16
+20,Lubusz (LB),21
+21,Lubusz (LB),23
+22,Lubusz (LB),30
+23,Lubusz (LB),31
+0,Łódź (LD),0
+1,Łódź (LD),0
+2,Łódź (LD),0
+3,Łódź (LD),0
+4,Łódź (LD),0
+5,Łódź (LD),0
+6,Łódź (LD),0
+7,Łódź (LD),1
+8,Łódź (LD),2
+9,Łódź (LD),5
+10,Łódź (LD),15
+11,Łódź (LD),19
+12,Łódź (LD),31
+13,Łódź (LD),42
+14,Łódź (LD),42
+15,Łódź (LD),48
+16,Łódź (LD),57
+17,Łódź (LD),91
+18,Łódź (LD),106
+19,Łódź (LD),111
+20,Łódź (LD),129
+21,Łódź (LD),144
+22,Łódź (LD),158
+23,Łódź (LD),168
+0,Lublin (LU),0
+1,Lublin (LU),0
+2,Lublin (LU),0
+3,Lublin (LU),0
+4,Lublin (LU),0
+5,Lublin (LU),0
+6,Lublin (LU),1
+7,Lublin (LU),2
+8,Lublin (LU),6
+9,Lublin (LU),7
+10,Lublin (LU),15
+11,Lublin (LU),17
+12,Lublin (LU),18
+13,Lublin (LU),22
+14,Lublin (LU),22
+15,Lublin (LU),25
+16,Lublin (LU),28
+17,Lublin (LU),31
+18,Lublin (LU),39
+19,Lublin (LU),48
+20,Lublin (LU),54
+21,Lublin (LU),60
+22,Lublin (LU),74
+23,Lublin (LU),78
+0,Lesser Poland (MA),0
+1,Lesser Poland (MA),0
+2,Lesser Poland (MA),0
+3,Lesser Poland (MA),0
+4,Lesser Poland (MA),0
+5,Lesser Poland (MA),1
+6,Lesser Poland (MA),1
+7,Lesser Poland (MA),1
+8,Lesser Poland (MA),1
+9,Lesser Poland (MA),1
+10,Lesser Poland (MA),1
+11,Lesser Poland (MA),1
+12,Lesser Poland (MA),2
+13,Lesser Poland (MA),5
+14,Lesser Poland (MA),6
+15,Lesser Poland (MA),7
+16,Lesser Poland (MA),14
+17,Lesser Poland (MA),16
+18,Lesser Poland (MA),24
+19,Lesser Poland (MA),33
+20,Lesser Poland (MA),49
+21,Lesser Poland (MA),56
+22,Lesser Poland (MA),69
+23,Lesser Poland (MA),93
+0,Masovia (MZ; Warsaw),0
+1,Masovia (MZ; Warsaw),0
+2,Masovia (MZ; Warsaw),0
+3,Masovia (MZ; Warsaw),0
+4,Masovia (MZ; Warsaw),2
+5,Masovia (MZ; Warsaw),2
+6,Masovia (MZ; Warsaw),3
+7,Masovia (MZ; Warsaw),4
+8,Masovia (MZ; Warsaw),6
+9,Masovia (MZ; Warsaw),11
+10,Masovia (MZ; Warsaw),16
+11,Masovia (MZ; Warsaw),22
+12,Masovia (MZ; Warsaw),35
+13,Masovia (MZ; Warsaw),38
+14,Masovia (MZ; Warsaw),66
+15,Masovia (MZ; Warsaw),82
+16,Masovia (MZ; Warsaw),107
+17,Masovia (MZ; Warsaw),127
+18,Masovia (MZ; Warsaw),147
+19,Masovia (MZ; Warsaw),175
+20,Masovia (MZ; Warsaw),212
+21,Masovia (MZ; Warsaw),251
+22,Masovia (MZ; Warsaw),291
+23,Masovia (MZ; Warsaw),318
+0,Opole (OP),0
+1,Opole (OP),0
+2,Opole (OP),0
+3,Opole (OP),0
+4,Opole (OP),0
+5,Opole (OP),0
+6,Opole (OP),0
+7,Opole (OP),1
+8,Opole (OP),2
+9,Opole (OP),2
+10,Opole (OP),4
+11,Opole (OP),4
+12,Opole (OP),6
+13,Opole (OP),8
+14,Opole (OP),9
+15,Opole (OP),10
+16,Opole (OP),10
+17,Opole (OP),10
+18,Opole (OP),14
+19,Opole (OP),19
+20,Opole (OP),21
+21,Opole (OP),23
+22,Opole (OP),26
+23,Opole (OP),28
+0,Podlaskie (PD),0
+1,Podlaskie (PD),0
+2,Podlaskie (PD),0
+3,Podlaskie (PD),0
+4,Podlaskie (PD),0
+5,Podlaskie (PD),0
+6,Podlaskie (PD),0
+7,Podlaskie (PD),0
+8,Podlaskie (PD),0
+9,Podlaskie (PD),0
+10,Podlaskie (PD),0
+11,Podlaskie (PD),0
+12,Podlaskie (PD),0
+13,Podlaskie (PD),1
+14,Podlaskie (PD),2
+15,Podlaskie (PD),1
+16,Podlaskie (PD),3
+17,Podlaskie (PD),5
+18,Podlaskie (PD),6
+19,Podlaskie (PD),7
+20,Podlaskie (PD),7
+21,Podlaskie (PD),10
+22,Podlaskie (PD),13
+23,Podlaskie (PD),17
+0,Subcarpathian (PK),0
+1,Subcarpathian (PK),0
+2,Subcarpathian (PK),0
+3,Subcarpathian (PK),0
+4,Subcarpathian (PK),0
+5,Subcarpathian (PK),0
+6,Subcarpathian (PK),0
+7,Subcarpathian (PK),1
+8,Subcarpathian (PK),3
+9,Subcarpathian (PK),6
+10,Subcarpathian (PK),7
+11,Subcarpathian (PK),8
+12,Subcarpathian (PK),11
+13,Subcarpathian (PK),11
+14,Subcarpathian (PK),14
+15,Subcarpathian (PK),17
+16,Subcarpathian (PK),19
+17,Subcarpathian (PK),25
+18,Subcarpathian (PK),29
+19,Subcarpathian (PK),30
+20,Subcarpathian (PK),37
+21,Subcarpathian (PK),43
+22,Subcarpathian (PK),53
+23,Subcarpathian (PK),61
+0,Pomerania (PM),0
+1,Pomerania (PM),0
+2,Pomerania (PM),0
+3,Pomerania (PM),0
+4,Pomerania (PM),0
+5,Pomerania (PM),0
+6,Pomerania (PM),0
+7,Pomerania (PM),0
+8,Pomerania (PM),0
+9,Pomerania (PM),0
+10,Pomerania (PM),2
+11,Pomerania (PM),2
+12,Pomerania (PM),2
+13,Pomerania (PM),8
+14,Pomerania (PM),9
+15,Pomerania (PM),9
+16,Pomerania (PM),10
+17,Pomerania (PM),14
+18,Pomerania (PM),17
+19,Pomerania (PM),21
+20,Pomerania (PM),22
+21,Pomerania (PM),22
+22,Pomerania (PM),28
+23,Pomerania (PM),32
+0,Holy Cross (SK),0
+1,Holy Cross (SK),0
+2,Holy Cross (SK),0
+3,Holy Cross (SK),0
+4,Holy Cross (SK),0
+5,Holy Cross (SK),0
+6,Holy Cross (SK),0
+7,Holy Cross (SK),0
+8,Holy Cross (SK),0
+9,Holy Cross (SK),0
+10,Holy Cross (SK),2
+11,Holy Cross (SK),3
+12,Holy Cross (SK),3
+13,Holy Cross (SK),3
+14,Holy Cross (SK),4
+15,Holy Cross (SK),5
+16,Holy Cross (SK),6
+17,Holy Cross (SK),7
+18,Holy Cross (SK),7
+19,Holy Cross (SK),8
+20,Holy Cross (SK),8
+21,Holy Cross (SK),14
+22,Holy Cross (SK),15
+23,Holy Cross (SK),22
+0,Silesia (SL),0
+1,Silesia (SL),0
+2,Silesia (SL),0
+3,Silesia (SL),0
+4,Silesia (SL),2
+5,Silesia (SL),5
+6,Silesia (SL),7
+7,Silesia (SL),8
+8,Silesia (SL),11
+9,Silesia (SL),12
+10,Silesia (SL),12
+11,Silesia (SL),14
+12,Silesia (SL),18
+13,Silesia (SL),24
+14,Silesia (SL),30
+15,Silesia (SL),42
+16,Silesia (SL),46
+17,Silesia (SL),56
+18,Silesia (SL),66
+19,Silesia (SL),77
+20,Silesia (SL),87
+21,Silesia (SL),107
+22,Silesia (SL),127
+23,Silesia (SL),141
+0,Warmia–Masuria (WN),0
+1,Warmia–Masuria (WN),0
+2,Warmia–Masuria (WN),1
+3,Warmia–Masuria (WN),2
+4,Warmia–Masuria (WN),2
+5,Warmia–Masuria (WN),2
+6,Warmia–Masuria (WN),2
+7,Warmia–Masuria (WN),4
+8,Warmia–Masuria (WN),4
+9,Warmia–Masuria (WN),4
+10,Warmia–Masuria (WN),4
+11,Warmia–Masuria (WN),5
+12,Warmia–Masuria (WN),5
+13,Warmia–Masuria (WN),7
+14,Warmia–Masuria (WN),11
+15,Warmia–Masuria (WN),12
+16,Warmia–Masuria (WN),17
+17,Warmia–Masuria (WN),20
+18,Warmia–Masuria (WN),22
+19,Warmia–Masuria (WN),25
+20,Warmia–Masuria (WN),29
+21,Warmia–Masuria (WN),33
+22,Warmia–Masuria (WN),39
+23,Warmia–Masuria (WN),44
+0,Greater Poland (WP),0
+1,Greater Poland (WP),0
+2,Greater Poland (WP),0
+3,Greater Poland (WP),0
+4,Greater Poland (WP),0
+5,Greater Poland (WP),1
+6,Greater Poland (WP),1
+7,Greater Poland (WP),2
+8,Greater Poland (WP),5
+9,Greater Poland (WP),6
+10,Greater Poland (WP),7
+11,Greater Poland (WP),7
+12,Greater Poland (WP),11
+13,Greater Poland (WP),13
+14,Greater Poland (WP),13
+15,Greater Poland (WP),15
+16,Greater Poland (WP),18
+17,Greater Poland (WP),31
+18,Greater Poland (WP),37
+19,Greater Poland (WP),41
+20,Greater Poland (WP),43
+21,Greater Poland (WP),58
+22,Greater Poland (WP),70
+23,Greater Poland (WP),91
+0,West Pomerania (ZP),0
+1,West Pomerania (ZP),0
+2,West Pomerania (ZP),2
+3,West Pomerania (ZP),2
+4,West Pomerania (ZP),2
+5,West Pomerania (ZP),2
+6,West Pomerania (ZP),2
+7,West Pomerania (ZP),2
+8,West Pomerania (ZP),3
+9,West Pomerania (ZP),5
+10,West Pomerania (ZP),5
+11,West Pomerania (ZP),6
+12,West Pomerania (ZP),6
+13,West Pomerania (ZP),8
+14,West Pomerania (ZP),8
+15,West Pomerania (ZP),9
+16,West Pomerania (ZP),9
+17,West Pomerania (ZP),10
+18,West Pomerania (ZP),12
+19,West Pomerania (ZP),16
+20,West Pomerania (ZP),25
+21,West Pomerania (ZP),30
+22,West Pomerania (ZP),32
+23,West Pomerania (ZP),39
